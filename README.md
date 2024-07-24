@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhimanyu077&label=Profile%20views&color=0e75b6&style=flat" alt="abhimanyu077" /> </p>
 
-- 🔭 I’m currently working as a **technical Fiori developer in SAP**
+- 🔭 I’m currently working as a **Technical Fiori Developer in SAP**
 
 - 🌱 I’m currently learning **Ui5**
 - 
