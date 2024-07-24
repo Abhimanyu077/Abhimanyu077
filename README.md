@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Abhimanyu Singh Rathore</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
+<h3 align="center"></h3>
 
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhimanyu077&label=Profile%20views&color=0e75b6&style=flat" alt="abhimanyu077" /> </p>
 
-- 🔭 I’m currently working on **ecommerce websites**
+- 🔭 I’m currently working as a **technical Fiori developer in SAP**
 
-- 🌱 I’m currently learning **node.js**
-
+- 🌱 I’m currently learning **Ui5**
+- 
 - 📫 How to reach me **abhimanyusinghrathore27@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
